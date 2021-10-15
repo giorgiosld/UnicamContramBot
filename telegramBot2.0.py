@@ -273,7 +273,7 @@ def displayUser(update, context):
 
 def main() -> None:
 	#creazione updater con inserimento tokenBot
-	updater = Updater(token = '1955397203:AAGXlnrGjJHyKt10uIRXDyST3Zp1fqCd9ls', use_context = True)
+	updater = Updater(token = TOKEN, use_context = True)
 	#creazione dispatcher
 	dispatcher = updater.dispatcher
 	#in caso di errori una logError
