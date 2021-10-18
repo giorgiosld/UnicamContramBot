@@ -230,8 +230,6 @@ def insertUser(update, context):
 		check = str(update.effective_chat.id)
 		check = check+"\n"
 		for line in f:
-			print('line '+line+str(len(line)))
-			print('user '+check+str(len(check)))
 			if(line == check):
 				presence_error_message = "L'utente proprietario della chat ha già i dati inseriti nel nostro sistema. Per favore evitate stronzate!"
 				context.bot.send_message(chat_id=update.effective_chat.id, text=presence_error_message)
