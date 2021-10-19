@@ -57,7 +57,7 @@ def contram(info, update, context):
 	profile = wd.FirefoxProfile()
 	profile.set_preference("browser.download.folderList",2)
 	profile.set_preference("browser.download.manager.useWindow", False)
-	profile.set_preference("browser.download.dir", "/home/"+home+"/Downloads")    
+	profile.set_preference("browser.download.dir", "/home/"+nameHome+"/Downloads")    
 	profile.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/pdf, application/force-download")
 	profile.set_preference("dom.disable_beforeunload", True)
 	profile.set_preference("pdfjs.disabled", True)
