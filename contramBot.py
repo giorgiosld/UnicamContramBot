@@ -302,6 +302,7 @@ def main() -> None:
 	start_handler = CommandHandler('start', start)
 	dispatcher.add_handler(start_handler)
 
+	#necesarrio per risolvere le callback riguardanti il prenota
 	updater.dispatcher.add_handler(CallbackQueryHandler(button))
 
 	caps_handler = CommandHandler('caps', caps)
