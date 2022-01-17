@@ -1,4 +1,4 @@
-#test commit ssh ubunutvm
+#test commit ssh manjaro
 #importo telegram API
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, CallbackContext
 from telegram.ext import MessageHandler, Filters
