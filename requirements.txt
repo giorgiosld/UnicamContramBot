@@ -1,0 +1,3 @@
+selenium
+telegram
+python-telegram-bot
