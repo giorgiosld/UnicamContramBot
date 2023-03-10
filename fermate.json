@@ -1,0 +1,542 @@
+[
+    {
+        "fermataID": 1,
+        "nome": "Foligno",
+        "latitudine": 42.947737,
+        "longitudine": 12.718495,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Foligno AR.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 3,
+        "nome": "Orte Hotel Tevere",
+        "latitudine": 42.452256,
+        "longitudine": 12.406442,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Orte Hotel Tevere.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 4,
+        "nome": "Spoleto",
+        "latitudine": 42.727872,
+        "longitudine": 12.735271,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Spoleto AR.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 5,
+        "nome": "Terni",
+        "latitudine": 42.57211,
+        "longitudine": 12.633198,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Terni AR.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 6,
+        "nome": "Roma Ponte Milvio",
+        "latitudine": 41.935584,
+        "longitudine": 12.464807,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Roma c_o ponte Milvio verso Camerino.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": 22
+    },
+    {
+        "fermataID": 8,
+        "nome": "Roma Labaro",
+        "latitudine": 41.983989,
+        "longitudine": 12.493514,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Roma Labaro verso Camerino.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": 22
+    },
+    {
+        "fermataID": 10,
+        "nome": "Roma Via Oslavia",
+        "latitudine": 41.916794,
+        "longitudine": 12.462988,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Roma Via Oslavia verso Camerino.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": 22
+    },
+    {
+        "fermataID": 12,
+        "nome": "Roma San Martino della Battaglia",
+        "latitudine": 41.905425,
+        "longitudine": 12.504307,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Roma Via Palestro - S_M_Battaglia.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": 22
+    },
+    {
+        "fermataID": 13,
+        "nome": "Camerino",
+        "latitudine": 43.142289,
+        "longitudine": 13.078055,
+        "hasFermateInterne": true,
+        "percorsoImmagine": "Camerino AR 43.142289, 13.078055.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 14,
+        "nome": "Tolentino",
+        "latitudine": 43.21494,
+        "longitudine": 13.307389,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Tolentino AR 43.214940, 13.307389.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 15,
+        "nome": "Macerata",
+        "latitudine": 43.2996573,
+        "longitudine": 13.4440289,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Macerata AR 43.2996573,13.4440289.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 16,
+        "nome": "Roma Tiburtina",
+        "latitudine": 41.909035,
+        "longitudine": 12.528357,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Roma Tiburtina 41.909035, 12.528357.jpg",
+        "isFiglioPreferenziale": true,
+        "fermataPadreIDRef": 22
+    },
+    {
+        "fermataID": 17,
+        "nome": "Maddalena",
+        "latitudine": 43.075467,
+        "longitudine": 13.063047,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Maddalena AR 43.075467, 13.063047.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 18,
+        "nome": "Castelraimondo",
+        "latitudine": 43.210117,
+        "longitudine": 13.057265,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Castelraimondo AR 43.210117, 13.057265.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": 13
+    },
+    {
+        "fermataID": 19,
+        "nome": "Visso",
+        "latitudine": 42.932053,
+        "longitudine": 13.084483,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Visso  42.932053, 13.084483.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 20,
+        "nome": "Pieve Torina",
+        "latitudine": 43.0363835,
+        "longitudine": 13.0411107,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Pieve Torina.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 22,
+        "nome": "Roma",
+        "latitudine": 41.909035,
+        "longitudine": 12.528357,
+        "hasFermateInterne": true,
+        "percorsoImmagine": "Roma Tiburtina 41.909035, 12.528357.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 24,
+        "nome": "Camerino Terminal",
+        "latitudine": 43.142289,
+        "longitudine": 13.078055,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Camerino AR 43.142289, 13.078055.jpg",
+        "isFiglioPreferenziale": true,
+        "fermataPadreIDRef": 13
+    },
+    {
+        "fermataID": 25,
+        "nome": "Senigallia",
+        "latitudine": 43.715911,
+        "longitudine": 13.221516,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Senigallia_43.715911_13.221516.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 26,
+        "nome": "Jesi",
+        "latitudine": 43.511043,
+        "longitudine": 13.26133,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Jesi_43.511043_13.261330.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 27,
+        "nome": "Fabriano",
+        "latitudine": 43.346633,
+        "longitudine": 12.922333,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Fabriano_43.346633_12.922333.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 28,
+        "nome": "Cerreto d'Esi",
+        "latitudine": 43.320733,
+        "longitudine": 12.985277,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "CerretoDesi_43.320733_12.985277.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 29,
+        "nome": "Matelica",
+        "latitudine": 43.253655,
+        "longitudine": 13.009563,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Matelica_43.253655_13.009563.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 30,
+        "nome": "Ascoli Piceno -Stazione FS",
+        "latitudine": 42.8551924,
+        "longitudine": 13.5876785,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Ascoli_Piceno_42.8551924_13.5876785.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 31,
+        "nome": "Roccafluvione",
+        "latitudine": 42.864428,
+        "longitudine": 13.473261,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Roccafluvione_42.864428_13.473261.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 32,
+        "nome": "Comunanza",
+        "latitudine": 42.959551,
+        "longitudine": 13.413411,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Comunanza_42.959551_13.413411.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 33,
+        "nome": "Amandola",
+        "latitudine": 42.98047,
+        "longitudine": 13.35608,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Amandola_42.980470_13.356080.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 34,
+        "nome": "Sarnano",
+        "latitudine": 43.035856,
+        "longitudine": 13.298227,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Sarnano_43.035856_13.298227.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 35,
+        "nome": "Morichella di S.Ginesio (S.P. 502)",
+        "latitudine": 43.080107,
+        "longitudine": 13.274105,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "MorichellaSanGinesio_43.080107_13.274105.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 36,
+        "nome": "Camporotondo di Fiastrone",
+        "latitudine": 43.130923,
+        "longitudine": 13.264269,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Camporotondo_43.130923_13.264269.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 37,
+        "nome": "Belforte del Chienti",
+        "latitudine": 43.164022,
+        "longitudine": 13.242397,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Belforte_43.164022_13.242397.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 38,
+        "nome": "Ancona Piazza Cavour",
+        "latitudine": 43.616296,
+        "longitudine": 13.517623,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "AnconaCavour_43.616296_13.517623.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 39,
+        "nome": "Ancona Stazione F.S.",
+        "latitudine": 43.607498,
+        "longitudine": 13.498894,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "AnconaFS_43.607498_13.498894.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 40,
+        "nome": "Porto Recanati Casello A14",
+        "latitudine": 43.436943,
+        "longitudine": 13.643925,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "PortoRecanati_43.436943_13.643925.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 41,
+        "nome": "Civitanova Marche F.S.",
+        "latitudine": 43.309812,
+        "longitudine": 13.726467,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "CivitanovaFS_43.309812_13.726467.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 42,
+        "nome": "Civitanova Marche Via Sonnino",
+        "latitudine": 43.292043,
+        "longitudine": 13.706339,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "CivitanovaViaSonnino_43.292043_13.706339.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 43,
+        "nome": "Corridonia Bar Paola",
+        "latitudine": 43.266333,
+        "longitudine": 13.486764,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "CorridoniaBarPaola_43.266333_13.486764.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 44,
+        "nome": "Esanatoglia Seminario S. Cataldo",
+        "latitudine": 43.250711,
+        "longitudine": 12.936824,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "EsanatogliaSanCataldo_43.250711_12.936824.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 45,
+        "nome": "Esanatoglia Via Fontebianco",
+        "latitudine": 43.253262,
+        "longitudine": 12.949354,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "EsanatogliaViaFontebianco_43.253262_12.949354.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 46,
+        "nome": "Matelica Regina Pacis",
+        "latitudine": 43.24724,
+        "longitudine": 13.005549,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "MatelicaReginaPacis_43.247240_13.005549.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 47,
+        "nome": "Matelica Semaforo bivio F.S.",
+        "latitudine": 43.253574,
+        "longitudine": 13.009673,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "MatelicaSemaforo_43.253574_13.009673.png",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 48,
+        "nome": "Bolognola - Pintura",
+        "latitudine": 42.989536,
+        "longitudine": 13.241315,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "BolognolaPintura 42.989536, 13.241315.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 49,
+        "nome": "Perugia",
+        "latitudine": 43.1056935,
+        "longitudine": 12.3878546,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Perugia.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 50,
+        "nome": "Assisi - S.M. degli Angeli",
+        "latitudine": 43.05606,
+        "longitudine": 12.5776092,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "S.M.Angeli.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 51,
+        "nome": "San Benedetto del T.",
+        "latitudine": 42.8964993,
+        "longitudine": 13.880936,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "San Benedetto.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 52,
+        "nome": "Pedaso",
+        "latitudine": 43.09746986,
+        "longitudine": 13.83907,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Pedaso_43.09746986, 13.83907.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 53,
+        "nome": "Porto San Giorgio",
+        "latitudine": 43.160575,
+        "longitudine": 13.7983537,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "P.S.Giorgio.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 54,
+        "nome": "Recanati",
+        "latitudine": 43.4005854,
+        "longitudine": 13.556983,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Recanati.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 55,
+        "nome": "Passo di Treia",
+        "latitudine": 43.2834426,
+        "longitudine": 13.3298881,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Passo Treia.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 56,
+        "nome": "San Severino Marche",
+        "latitudine": 43.234344,
+        "longitudine": 13.183992,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "San Severino.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 57,
+        "nome": "Villa Potenza",
+        "latitudine": 43.3288167,
+        "longitudine": 13.423312,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Villa Potenza.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 58,
+        "nome": "Perugia - Ponte S.Giovanni",
+        "latitudine": 43.088814,
+        "longitudine": 12.432536,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Perugia Ponte San Giovanni.jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 59,
+        "nome": "Castelluccio - Norcia",
+        "latitudine": 42.82107,
+        "longitudine": 13.21327,
+        "hasFermateInterne": false,
+        "percorsoImmagine": "Castelluccio 42,82107 13,21327 .jpg",
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    },
+    {
+        "fermataID": 60,
+        "nome": "Ussita",
+        "latitudine": 13.13894,
+        "longitudine": 42.9472,
+        "hasFermateInterne": false,
+        "percorsoImmagine": null,
+        "isFiglioPreferenziale": false,
+        "fermataPadreIDRef": null
+    }
+]
